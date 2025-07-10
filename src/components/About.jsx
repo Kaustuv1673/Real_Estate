@@ -31,7 +31,7 @@ const About = () => {
              <p className='text-4xl font-medium text-gray-800'>25+</p>
              <p>Ongoing Projects</p>
            </div>
-           <p className='my-10 max-w-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum accusamus, voluptatibus quasi voluptas ipsa eligendi obcaecati facere consectetur! Rem voluptates minus ratione? Ut, quaerat asperiores provident, repudiandae quidem molestias reiciendis assumenda natus doloribus autem animi ullam ipsum harum culpa voluptatem! Voluptatem provident magni, pariatur esse quas repudiandae hic nostrum quia?
+           <p className='my-10 max-w-lg'>Estate is a trusted real estate company specializing in helping clients discover and invest in premium residential properties. We focus on providing expert guidance and personalized support throughout the property search and leasing or buying process. With a commitment to transparency, professionalism, and client satisfaction, we make it easy for you to find your dream home. At Estate, we don’t just find properties, we find your ideal place to thrive.
            </p>
            <button className='bg-blue-600 text-white px-8 py-2 rounded'>
             Learn More
